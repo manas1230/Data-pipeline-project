@@ -1,0 +1,17 @@
+{
+	"name": "nycpayroladf",
+	"properties": {
+		"globalParameters": {
+			"dfparam": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34d74de8-be8b-474a-b9b7-d53081e431ab",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
